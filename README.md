@@ -1,4 +1,4 @@
-# Consigna para el Examen Parcial II Programación 3
+# Consigna Examen Parcial II - Programación 3
 
 **Objetivo:** Refactorizar una aplicación monolítica en **capas** siguiendo buenas prácticas de arquitectura backend. La aplicación utiliza **Node.js**, **Express**, **MySQL** y **Sequelize**. Inicialmente, toda la lógica se encuentra en un único archivo funcional (`app.js`).
 
